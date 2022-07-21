@@ -2,6 +2,7 @@
   "name": "ulbi",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://estrukov.github.io/JSONanimation/build",
   "dependencies": {
     "@lottiefiles/lottie-interactivity": "^1.6.1",
     "@testing-library/jest-dom": "^5.16.4",
